@@ -1,0 +1,1 @@
+We will be storing and analysizing data in Hadoop and Hive
